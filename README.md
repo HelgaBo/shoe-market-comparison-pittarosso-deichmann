@@ -44,26 +44,8 @@ L’obiettivo è comprendere le **strategie di assortimento e posizionamento di 
 
 ---
 
-## 📊 Esempio di risultati
-
-| Brand     | Prezzo Medio PittaRosso | Prezzo Medio Deichmann | Differenza (€) |
-|------------|--------------------------|--------------------------|----------------|
-| Adidas     | 75,90 €                  | 69,99 €                  | -5,91 €        |
-| Skechers   | 64,50 €                  | 59,99 €                  | -4,51 €        |
-| Catwalk    | 39,99 €                  | 39,99 €                  | 0,00 €         |
-
----
-
 ## 🎯 Obiettivi
 
 - Analizzare la **competitività dei prezzi** tra retailer.  
 - Identificare **differenze di assortimento** e brand più diffusi.  
 - Fornire insight utili per **strategie commerciali o studi di mercato**.
-
----
-
-## ▶️ Come usarlo
-
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/<tuo-username>/shoe-market-comparison-pittarosso-deichmann.git
